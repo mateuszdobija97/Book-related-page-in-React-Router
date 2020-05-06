@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Book-related-page-in-React-Router/static/css/main.6c7eab83.chunk.css",
+    "main.js": "/Book-related-page-in-React-Router/static/js/main.6808cbb9.chunk.js",
+    "main.js.map": "/Book-related-page-in-React-Router/static/js/main.6808cbb9.chunk.js.map",
+    "runtime-main.js": "/Book-related-page-in-React-Router/static/js/runtime-main.fa7e0233.js",
+    "runtime-main.js.map": "/Book-related-page-in-React-Router/static/js/runtime-main.fa7e0233.js.map",
+    "static/js/2.365fca5a.chunk.js": "/Book-related-page-in-React-Router/static/js/2.365fca5a.chunk.js",
+    "static/js/2.365fca5a.chunk.js.map": "/Book-related-page-in-React-Router/static/js/2.365fca5a.chunk.js.map",
+    "index.html": "/Book-related-page-in-React-Router/index.html",
+    "precache-manifest.356b4887729741f9f59b9c817de0ee5e.js": "/Book-related-page-in-React-Router/precache-manifest.356b4887729741f9f59b9c817de0ee5e.js",
+    "service-worker.js": "/Book-related-page-in-React-Router/service-worker.js",
+    "static/css/main.6c7eab83.chunk.css.map": "/Book-related-page-in-React-Router/static/css/main.6c7eab83.chunk.css.map",
+    "static/js/2.365fca5a.chunk.js.LICENSE.txt": "/Book-related-page-in-React-Router/static/js/2.365fca5a.chunk.js.LICENSE.txt",
+    "static/media/book1.PNG": "/Book-related-page-in-React-Router/static/media/book1.ddbe7d64.PNG",
+    "static/media/book2.PNG": "/Book-related-page-in-React-Router/static/media/book2.3a687f55.PNG",
+    "static/media/book3.PNG": "/Book-related-page-in-React-Router/static/media/book3.2e37c064.PNG",
+    "static/media/book4.PNG": "/Book-related-page-in-React-Router/static/media/book4.9fde2ec6.PNG",
+    "static/media/book5.PNG": "/Book-related-page-in-React-Router/static/media/book5.8caaa4b8.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa7e0233.js",
+    "static/js/2.365fca5a.chunk.js",
+    "static/css/main.6c7eab83.chunk.css",
+    "static/js/main.6808cbb9.chunk.js"
+  ]
+}
