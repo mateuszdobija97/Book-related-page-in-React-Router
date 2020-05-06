@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc66b2d90614b92be858fb83a06e7737",
+    "revision": "0cf415091ef24815d24d4a22e3b1eea9",
     "url": "/Book-related-page-in-React-Router/index.html"
   },
   {
-    "revision": "90f0fff1c837e30e429c",
+    "revision": "46c11ec709251f009ec3",
     "url": "/Book-related-page-in-React-Router/static/css/main.6c7eab83.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Book-related-page-in-React-Router/static/js/2.365fca5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90f0fff1c837e30e429c",
-    "url": "/Book-related-page-in-React-Router/static/js/main.6808cbb9.chunk.js"
+    "revision": "46c11ec709251f009ec3",
+    "url": "/Book-related-page-in-React-Router/static/js/main.656f5089.chunk.js"
   },
   {
     "revision": "dbba49dfbbcedbeec64b",
