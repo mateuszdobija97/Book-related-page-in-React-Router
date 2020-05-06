@@ -1,0 +1,12 @@
+.page h2 {
+    padding: 5px 0;
+}
+
+.page article {
+    padding: 20px 0;
+    border-bottom: 1px solid #222;
+}
+
+.page article:last-of-type {
+    border: none;
+}

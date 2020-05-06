@@ -1,0 +1,35 @@
+.books {
+    border-collapse: collapse;
+    width: 100%;
+    color: #222;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.books td, .books th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.books thead {
+    background-color: rgb(211, 202, 118);
+    text-align: left;
+}
+
+.books tbody tr:nth-child(even) {
+    background-color: rgb(219, 215, 179);
+}
+
+.books tbody tr:nth-child(odd) {
+    background-color: #eaf1bd;
+}
+
+.books tbody td a {
+    text-decoration: none;
+    color: #222;
+}
+
+.books tbody td a:hover {
+    text-decoration: none;
+    color: rgb(176, 179, 24);
+}

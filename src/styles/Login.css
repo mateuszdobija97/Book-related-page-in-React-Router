@@ -1,0 +1,30 @@
+.login label {
+    display: block;
+}
+
+.login input {
+    float: center;
+    margin-left: 10px;
+    border: 2px solid #222;
+    padding: 2px;
+}
+
+.login input[type="password"] {
+    margin-left: 6px;
+}
+
+.login button {
+    background-color: #fff;
+    padding: 10px 20px;
+    font-size: 12px;
+    margin: 20px 0 0 200px;
+    border: 2px solid #222;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.login button:hover {
+    background-color: #222;
+    color: white;
+}
